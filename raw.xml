@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>  
+Spaces<?xml version="1.0" encoding="UTF-8"?>  
 <emails>  
 <email>  
   <to>22MCA040</to>  
@@ -7,14 +7,14 @@
   <body> how are you!</body>  
 </email>  
 <email>  
-  <to>Jay</to>  
-  <from>Jay</from>  
+  <to>jay@gmail.com</to>  
+  <from>akhil@gmail.com<from>  
   <heading>Birth day wish</heading>  
   <body>Happy birth day Jay!</body>  
 </email>  
 <email>  
-  <to>Akhil</to>  
-  <from>Meet</from>  
+  <to>akhil@gmail.com</to>  
+  <from>meet@gmail.com</from>  
   <heading>Morning walk</heading>  
   <body>Please start morning walk to stay fit!</body>  
 </email>  
